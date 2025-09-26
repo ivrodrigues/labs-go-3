@@ -18,7 +18,7 @@ Esta é a maneira mais simples de subir a aplicação e todas as suas dependênc
 
 1.  Clone o repositório:
     ```bash
-    git clone https://github.com/devfullcycle/labs-auction-goexpert.git
+    git clone https://git@github.com:ivrodrigues/labs-go-3.git
     cd labs-auction-goexpert
     ```
 
