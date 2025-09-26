@@ -19,7 +19,7 @@ Esta é a maneira mais simples de subir a aplicação e todas as suas dependênc
 1.  Clone o repositório:
     ```bash
     git clone https://git@github.com:ivrodrigues/labs-go-3.git
-    cd labs-auction-goexpert
+    cd labs-go-3
     ```
 
 2.  Execute o Docker Compose:
